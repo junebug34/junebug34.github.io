@@ -4,10 +4,10 @@ main:
     url: https://junebug34.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "ABOUT"
      url: https://junebug34.github.io/minimal-mistakes/about/
+  - title: "CV/RESUME"
+     #url: /year-archive/
   - title: "PORTFOLIO"
      url: /collection-archive/
-  - title: "RESUME"
-     #url: /year-archive/
   - title: "POSTS"
      url: /year-archive/
   - title: "CONTACT"
