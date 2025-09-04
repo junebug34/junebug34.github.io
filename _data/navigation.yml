@@ -5,7 +5,7 @@ main:
   - title: "ABOUT"
      url: https://junebug34.github.io/minimal-mistakes/about/
   - title: "CV/RESUME"
-     #url: /year-archive/
+     url: /year-archive/
   - title: "PORTFOLIO"
      url: /collection-archive/
   - title: "POSTS"
