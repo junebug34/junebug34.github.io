@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Jieun Jang"
 description              : "An amazing website."
 url                      : "https://junebug34.github.io"
-baseurl                  : "/blog"
+baseurl                  : #"/blog"
 repository               : "junebug34/minimal-mistakes"
 teaser                   : "/assets/backgroundimage.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
