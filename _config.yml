@@ -117,11 +117,11 @@ author:
   avatar           : "/assets/bio-photo.png"
   bio              : "Recent Health Informatics Graduate Seeking Opportunities in Health Data Analysis"
   location         : "Virginia, USA"
-  email            : "jieun920304@gmail.com"
+  email            : #"jieun920304@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "mailto:jieun920304@gmail.com"
+      url: "mailto:jieun920304@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -228,8 +228,8 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:categories/:title/ 
+timezone:  https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Pagination with jekyll-paginate
