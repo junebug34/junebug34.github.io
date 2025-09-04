@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "jieun920304@gmail.com"
+      url: "jieun920304@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -136,7 +136,7 @@ author:
       # url: "https://github.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/jieunjang34/"
+      url: "https://www.linkedin.com/in/jieunjang34/"
 
 # Site Footer
 footer:
