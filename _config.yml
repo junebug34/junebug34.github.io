@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "JIEUN JANG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hi, I'm Jieun."
+name                     : "Jieun Jang"
 description              : "An amazing website."
 url                      : "https://junebug34.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jieun Jang"
+  name             : "Hi, I'm Jieun."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Virginia, USA"
