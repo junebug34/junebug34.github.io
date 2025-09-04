@@ -23,8 +23,8 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Jieun Jang"
 description              : "An amazing website."
 url                      : "https://junebug34.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/blog"
+repository               : "junebug34/minimal-mistakes"
 teaser                   : "/assets/backgroundimage.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -49,7 +49,7 @@ comments:
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
+    category_name        : "CV"
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
