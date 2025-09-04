@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Hi, I'm Jieun."
   avatar           : "/assets/bio-photo.jpg"
-  bio              : "Recent Health Informatics Graduate Seeking Opportunities in **Health Data Analysis**"
+  bio              : "Recent Health Informatics Graduate Seeking Opportunities in Health Data Analysis"
   location         : "Virginia, USA"
-  email            :
+  email            : "jieun920304@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
