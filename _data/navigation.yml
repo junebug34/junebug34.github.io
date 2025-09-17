@@ -2,7 +2,7 @@
 main:
   - title: "CATEGORY"
     url: /categories/
-  - title: "CV/Resume"
+  - title: "CV/RESUME"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "PORTFOLIO"
     url: /year-archive/
