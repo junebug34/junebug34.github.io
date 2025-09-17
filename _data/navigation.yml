@@ -3,7 +3,7 @@ main:
   - title: "CATEGORY"
     url: /categories/
   - title: "CV/RESUME"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://github.com/junebug34/online-cv
   - title: "PORTFOLIO"
     url: /year-archive/
   - title: "CONTACT"
