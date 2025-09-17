@@ -2,7 +2,7 @@
 main:
   - title: "POSTS"
     url: /categories/
-  - title: "CV/RESUME"
+  - title: "RESUME"
     url: https://github.com/junebug34/online-cv
   - title: "PORTFOLIO"
     url: /year-archive/
