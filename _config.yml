@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "JIEUN JANG"
+title                    : "Joy's Blog"
 title_separator          : "|"
-subtitle                 : "“The goal is to turn data into information, and information into insight.” — Carly Fiorina"
+subtitle                 : "“The goal is to turn data into information, and information into insight.”"
 name                     : "Jieun Jang"
 description              : "Data Analyst Portfolio"
 url                      : "https://junebug34.github.io/"
@@ -112,7 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hey! I'm Jieun Jang"
+  name             : "Hey! I'm Jieun"
   avatar           : "/assets/IMG_4506.jpg"
   bio              : "Health Informatics Graduate Seeking Opportunities in **Data Analysis**"
   location         : "Virginia, USA"
@@ -133,9 +133,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/_jieuneeee"
+      #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/_jieuneeee"
 
 # Site Footer
 footer:
@@ -155,9 +155,9 @@ footer:
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/jieunjang34/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/_jieuneeee"
+      #- label: "Instagram"
+      #icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/_jieuneeee"
   since: "2015"
 
 
