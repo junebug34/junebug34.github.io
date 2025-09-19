@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Joy's Data Journey"
 title_separator          : "|"
-subtitle                 : "“The goal is to turn data into information, and information into insight.”"
+subtitle                 : "“The goal is to turn data into information, and information into insight”"
 name                     : "Jieun Jang"
 description              : "Data Analyst Portfolio"
 url                      : "https://junebug34.github.io/"
